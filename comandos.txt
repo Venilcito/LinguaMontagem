@@ -2,3 +2,6 @@ nasm -f elf64 [nome].asm                - criar .o
 ld [nome].o -o [nome].x                 - gerar executavel
 
 gdb [nome].x                            - rodar no gdb
+
+
+https://www.youtube.com/@TresTroxa
