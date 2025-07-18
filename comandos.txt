@@ -1,7 +1,9 @@
 nasm -f elf64 [nome].asm                - criar .o
-ld [nome].o -o [nome].x                 - gerar executavel
+ld [nome].o -o [nome].x                 - gerar executável
+gcc -m64 -no-pie [nome].o -o [nome].x   - gerar executável
 
-gdb [nome].x                            - rodar no gdb
+./[nome]                                - rodar
+gdb [nome].x                            - debugar no gdb
 
 
 https://www.youtube.com/@TresTroxa
