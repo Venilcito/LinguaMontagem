@@ -1,0 +1,15 @@
+Execução 1
+============
+Coeficiente a: 0.900000
+Coeficienteb: 1.300000
+============
+Execução 2
+============
+Coeficiente a: 0.900000
+Coeficienteb: 1.300000
+============
+Execução 3
+============
+Coeficiente a: 0.890000
+Coeficienteb: -1.000000
+============
